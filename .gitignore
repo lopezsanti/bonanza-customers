@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+#client generated json
+client_json_data
+clients
+processing_history.db
+processing_history
+extracted_data
+extraction_log.log
+extraction_log
+
+#env
+.env
